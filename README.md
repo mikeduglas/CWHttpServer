@@ -7,8 +7,8 @@ http://localhost:8000/
 To stop the server press Shotdown button.
 
 ## Dependencies
-[winapi](https://github.com/mikeduglas/winapi)
-[printf](https://github.com/mikeduglas/printf)
+- [winapi](https://github.com/mikeduglas/winapi)
+- [printf](https://github.com/mikeduglas/printf)
 
 ## Contacts
 mikeduglas@yandex.ru
