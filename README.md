@@ -8,7 +8,7 @@ and provides a simple, programmatically controlled HTTP protocol listener.
 ## Demo
 Copy CWHttpServer.dll into the demo folder and run HttpServerDemo.exe. Open web browser and type in address field:  
 http://localhost:8000/  
-To stop the server press Shotdown button.
+To stop the server press Shutdown button.
 
 ## Dependencies
 - [winapi](https://github.com/mikeduglas/winapi)
